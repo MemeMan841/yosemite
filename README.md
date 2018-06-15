@@ -1,1 +1,1 @@
-# yosemite
+# yosemite made to practice css-basics
