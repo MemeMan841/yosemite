@@ -108,6 +108,10 @@ body {
 	background-color: #d0d3d8; /*linear-gradient(#130bef, #4d73af)*/
 }
 
+#about-paragraph {
+	text-align: center;
+}
+
 @media (max-width: 615px) {
 	img {
 		width: 100%;
