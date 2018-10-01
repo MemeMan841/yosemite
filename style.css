@@ -22,6 +22,7 @@ nav a {
 	margin-top: 3px;
 	margin-bottom: 7px;
 	padding: 5px;
+	border-radius: 4px;
 }
 
 header h1 {
@@ -97,6 +98,7 @@ footer a {
 	background-color: #2d3133;
 	color: white;
 	padding: 5px;
+	border-radius: 4px;
 }
 
 
@@ -141,6 +143,22 @@ body {
 
 }
 
+p {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+/*width: 400px;*/
+
+@media (min-width: 600px) {
+
+	p {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+}
 
 
 
